@@ -7,4 +7,4 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Zara for the Lighthouse Labs Data Science Bootcamp.
+This repository contains all of the notes taken by [Zara](https://github.com/Zara1992) for the Lighthouse Labs Data Science Bootcamp.
